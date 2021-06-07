@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4e1d3f29-fb0d-49f0-945c-a39eefaac88e",
+    "data": [
+      {
+        "text": "Ice Cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1cf8c36-b54a-4fb7-a04a-b642a4ad429c",
+    "data": [
+      {
+        "text": "Samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

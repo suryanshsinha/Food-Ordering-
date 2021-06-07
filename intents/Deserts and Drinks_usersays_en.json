@@ -1,0 +1,41 @@
+[
+  {
+    "id": "4e7d98b5-29c0-4d77-969c-07ccbe5f3c82",
+    "data": [
+      {
+        "text": "Deserts and Drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "137e6a60-6994-42de-bcbc-91be8a524253",
+    "data": [
+      {
+        "text": "Deserts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4219fa5-0ef3-43cc-ace5-6fa33373359a",
+    "data": [
+      {
+        "text": "Drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
